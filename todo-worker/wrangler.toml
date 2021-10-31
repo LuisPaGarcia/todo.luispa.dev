@@ -1,0 +1,8 @@
+name = "todo-worker"
+type = "webpack"
+
+account_id = "fcda1bd4c3858feb102320d721681d8a"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-31"
